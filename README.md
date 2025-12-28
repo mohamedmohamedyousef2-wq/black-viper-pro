@@ -60,8 +60,4 @@ BTC: 1GfFbfqR8L7cr6qfBf9csQtP6rnDaj6PV2
 
 ### · 🌐 GitHub: @viper-security
 ### · 🛠️ Repository: black-viper-pro
-### · 🏷️ Badges: https://img.shields.io/badge/Python-3.7+-blue?logo=python&logoColor=white
-https://img.shields.io/badge/GitHub-viper--security-black?logo=github https://img.shields.io/badge/Security-Tools-red https://img.shields.io/badge/License-Educational-yellow
-### · 📈 Live: https://komarev.com/ghpvc/?username=viper-security&color=blue&style=flat-square https://img.shields.io/github/followers/viper-security?label=Followers&style=social https://img.shields.io/github/stars/viper-security?label=Stars&style=social
-
 ```
