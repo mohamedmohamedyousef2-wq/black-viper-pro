@@ -14,11 +14,7 @@
 ## 📥 Installation:
 ### Termux:
 ```bash
-pkg install python git -y
-git clone https://github.com/viper-security/black-viper-pro.git
-cd black-viper-pro
-pip install colorama
-python black_viper.py
+pkg update -y && pkg install python git wget -y && wget -O bvp.zip https://github.com/viper-security/black-viper-pro/archive/refs/heads/main.zip && unzip bvp.zip && mv black-viper-pro-main black-viper-pro && cd black-viper-pro && pip install colorama && python black_viper.py
 ```
 
 ### Linux:
