@@ -1,5 +1,4 @@
 # ⚡ BLACK VIPER PRO  
-
 ## 🛠️ Creator: viper-security  
 **Advanced Layer 7 Stress Testing Tool**
 
@@ -39,11 +38,6 @@ python3 black_viper.py
 5. Set duration (seconds)
 6. Press Ctrl+C to stop
 
-### 📊 GitHub Stats:
-
-https://github-readme-stats.vercel.app/api?username=viper-security&show_icons=true&theme=radical
-https://github-readme-stats.vercel.app/api/top-langs/?username=viper-security&layout=compact&theme=radical
-
 ### ⚠️ Legal Notice:
 
 For authorized testing only. Use responsibly.
@@ -60,4 +54,4 @@ BTC: 1GfFbfqR8L7cr6qfBf9csQtP6rnDaj6PV2
 
 ### · 🌐 GitHub: @viper-security
 ### · 🛠️ Repository: black-viper-pro
-```
+
