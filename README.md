@@ -1,38 +1,40 @@
 ╔═══════════════════════════════════════════════════╗
 ║                BLACK VIPER PRO                    ║
+║         Advanced Layer 7 Stress Testing Tool      ║
 ╠═══════════════════════════════════════════════════╣
-║  🛠️  DEVELOPER:  viper-security                   ║
-║  🔧  LANGUAGE:   Python 3.7+                      ║
-║  🎯  TYPE:       Layer 7 Stress Testing Tool      ║
+║  🔧 Developer:    viper-security                  ║
+║  📦 Repository:   black-viper-pro                 ║
+║  🐍 Language:     Python 3.7+                     ║
+║  🛡️ Category:     Security Tools                  ║
 ╠═══════════════════════════════════════════════════╣
-║  📥  INSTALLATION:                                ║
-║     Termux:                                       ║
-║       pkg install python git -y                   ║
-║       git clone https://github.com/viper-security ║
-║       /black-viper-pro.git                        ║
-║       cd black-viper-pro && pip install colorama  ║
-║       python black_viper.py                       ║
+║                 📥 INSTALLATION                   ║
+╠═══════════════════════════════════════════════════╣
+║  📱 TERMUX:                                       ║
+║     pkg install python git -y                     ║
+║     git clone https://github.com/viper-security/  ║
+║     black-viper-pro.git                           ║
+║     cd black-viper-pro && pip install colorama    ║
+║     python black_viper.py                         ║
 ║                                                   ║
-║     Linux:                                        ║
-║       sudo apt install python3 python3-pip git -y ║
-║       git clone https://github.com/viper-security ║
-║       /black-viper-pro.git                        ║
-║       cd black-viper-pro && pip3 install colorama ║
-║       python3 black_viper.py                      ║
+║  🐧 LINUX:                                        ║
+║     sudo apt install python3 python3-pip git -y   ║
+║     git clone https://github.com/viper-security/  ║
+║     black-viper-pro.git                           ║
+║     cd black-viper-pro && pip3 install colorama   ║
+║     python3 black_viper.py                        ║
 ╠═══════════════════════════════════════════════════╣
-║  🎯  ATTACK MODES:                                ║
-║     1️⃣ SMART   - Balanced intelligent attack      ║
-║     2️⃣ POWER   - Maximum power & speed            ║
-║     3️⃣ STEALTH - Slow & hard to detect           ║
-║     4️⃣ MIXED   - All methods combined             ║
+║                 🎯 HOW TO USE                     ║
 ╠═══════════════════════════════════════════════════╣
-║  📊  FEATURES:                                    ║
-║     • HTTP/HTTPS flooding                         ║
-║     • Real-time statistics                        ║
-║     • User-Agent rotation                         ║
-║     • Multiple concurrent threads                 ║
-║     • Proxy support ready                         ║
-║     • Custom headers system                       ║
+║  1. Run: python black_viper.py                    ║
+║  2. Enter target URL                              ║
+║  3. Choose attack mode:                           ║
+║     • 1️⃣ SMART   - Balanced attack                ║
+║     • 2️⃣ POWER   - Maximum power                  ║
+║     • 3️⃣ STEALTH - Slow & hidden                  ║
+║     • 4️⃣ MIXED   - All methods combined           ║
+║  4. Set workers (1-100)                           ║
+║  5. Set duration (seconds)                        ║
+║  6. Press Ctrl+C to stop                          ║
 ╠═══════════════════════════════════════════════════╣
 ║  ⚠️  LEGAL: For authorized testing only           ║
 ║  💝  BTC: 1GfFbfqR8L7cr6qfBf9csQtP6rnDaj6PV2      ║
