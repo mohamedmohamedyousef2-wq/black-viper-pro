@@ -1,37 +1,56 @@
-# black-viper-pro
+⚡ Black Viper Pro
+
 Advanced Layer 7 Stress Testing Tool
-# ⚡ Black Viper Pro
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-3.0-blue">
-  <img src="https://img.shields.io/badge/Python-3.7+-green">
-  <img src="https://img.shields.io/badge/License-MIT-yellow">
-</p>
+📦 Installation
 
-## 🎯 Overview
-Black Viper Pro is an advanced Layer 7 stress testing tool designed for authorized penetration testing and security research. It combines multiple attack techniques in a single, powerful interface.
+Termux:
 
-## ✨ Features
-- **Multiple Attack Modes**: Smart, Power, Stealth, and Mixed
-- **Intelligent Resource Management**: Adaptive techniques for optimal performance
-- **Professional Interface**: Clean, colored terminal interface
-- **Real-time Statistics**: Live monitoring during attacks
-- **Low Resource Usage**: Efficient memory and CPU utilization
-
-## 🚀 Installation
-
-### Requirements
-- Python 3.7 or higher
-- No external dependencies required
-
-### Quick Start
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/black-viper-pro.git
+pkg install python git -y
+git clone https://github.com/viper-security/black-viper-pro.git
 cd black-viper-pro
-
-# Make executable
-chmod +x black_viper.py
-
-# Run
+pip install colorama
 python black_viper.py
+```
+
+Linux:
+
+```bash
+sudo apt install python3 python3-pip git -y
+git clone https://github.com/viper-security/black-viper-pro.git
+cd black-viper-pro
+pip3 install colorama
+python3 black_viper.py
+```
+
+📋 Requirements
+
+```
+colorama>=0.4.6
+```
+
+⚠️ Legal
+
+For authorized testing only. Use responsibly.
+
+💝 Support Development
+
+BTC: 1GfFbfqR8L7cr6qfBf9csQtP6rnDaj6PV2
+
+---
+
+🔧 One-Line Install (Termux):
+
+```bash
+pkg install python git -y && git clone https://github.com/viper-security/black-viper-pro.git && cd black-viper-pro && pip install colorama && python black_viper.py
+```
+
+🔧 One-Line Install (Linux):
+
+```bash
+sudo apt install python3 python3-pip git -y && git clone https://github.com/viper-security/black-viper-pro.git && cd black-viper-pro && pip3 install colorama && python3 black_viper.py
+```
+
+GitHub: @viper-security
+Tool: Black Viper Pro
