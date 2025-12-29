@@ -20,11 +20,7 @@ pkg update -y && pkg install python git wget -y && wget -O bvp.zip https://githu
 ### Linux:
 
 ```bash
-sudo apt install python3 python3-pip git -y
-git clone https://github.com/viper-security/black-viper-pro.git
-cd black-viper-pro
-pip3 install colorama
-python3 black_viper.py
+sudo apt update && sudo apt install python3 python3-pip git -y && git clone https://github.com/viper-security/black-viper-pro.git && cd black-viper-pro && pip3 install colorama && python3 black_viper.py
 ```
 
 ### 🎯 Quick Start:
